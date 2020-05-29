@@ -1,4 +1,4 @@
-package com.shree.phonebook.db;
+package com.phonebook.db;
 
 import org.sqlite.SQLiteConfig;
 
